@@ -1,0 +1,5 @@
+bin/
+*.exe
+.env
+config.yaml
+coverage.out
